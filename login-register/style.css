@@ -1,0 +1,11 @@
+.container{
+    max-width: 500px;
+    margin: 0;
+    padding: 50px;
+    box-shadow: cadetblue;
+    text-align: center;
+}
+.form-group{
+    margin-bottom: 25px;
+
+}
